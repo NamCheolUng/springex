@@ -1,3 +1,4 @@
+<!-- 신정재천재 -->
 <%@page import="java.sql.DriverManager"%>
 <%@page import="java.sql.ResultSet"%>
 <%@page import="java.sql.Statement"%>
